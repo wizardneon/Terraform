@@ -3,7 +3,7 @@
 
 Вы должны  посмотреть переменные (что мне казалось очевидным)и исправить переменные на ваши..Если вам не знакомы названия переменных и их значения обратитесь к данному описанию:
 
-Если при запуске возникла ошибка подобная этой                                            screenshot by Nikolay Poida:
+Если при запуске возникла ошибка подобная этой  ************************screenshot by Nikolay Poida:
 
 
  ![alt text](https://github.com/wizardneon/Terraform/blob/main/wordpress_hight_availability/MicrosoftTeams-image.png)
