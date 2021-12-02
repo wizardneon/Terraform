@@ -3,7 +3,7 @@
 
 Вы должны  посмотреть переменные (что мне казалось очевидным)и исправить переменные на ваши..Если вам не знакомы названия переменных и их значения обратитесь к данному описанию:
 
-Если при запуске возникла ошибка [alt text](https://github.com/wizardneon/Terraform/blob/main/wordpress_hight_availability/MicrosoftTeams-image.png)
+Если при запуске возникла ошибка [alt tag](https://github.com/wizardneon/Terraform/blob/main/wordpress_hight_availability/MicrosoftTeams-image.png)
 
 
 no valid credentials- это не баг и дебажить не нужно.
