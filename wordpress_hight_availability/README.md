@@ -3,10 +3,11 @@
 
 Вы должны  посмотреть переменные (что мне казалось очевидным)и исправить переменные на ваши..Если вам не знакомы названия переменных и их значения обратитесь к данному описанию:
 
-Если при запуске возникла ошибка ![alt text](https://github.com/wizardneon/Terraform/blob/main/wordpress_hight_availability/MicrosoftTeams-image.png)
+Если при запуске возникла ошибка подобная этой ![alt text](https://github.com/wizardneon/Terraform/blob/main/wordpress_hight_availability/MicrosoftTeams-image.png)
 
 
-no valid credentials- это не баг и дебажить не нужно.
+no valid credentials- это не баг и не ошибка   дебажить не нужно вы просто забыли поменять имя моего профиля wizardneon на свой.
+Вопрос зачем мне porfile  в коде? не уместен так как это мое решение и оно работает, пусть это "индийский код" я делал как знал и умел этот момент никому не вредит
 
 Вам следует просто проверить переменные на наличие в них элементов credentials. 
 Таких как: Profile,Key_name, shared_credentials_file, access_key, secred_key... и указать их если это необходимо.
