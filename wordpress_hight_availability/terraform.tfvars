@@ -5,4 +5,4 @@ region        = "eu-central-1"
 key_name      = "francfurt" // key name for ec2
 instance_type = "t2.micro" 
 ami           = "ami-0bd99ef9eccfee250"
-profile       = "wizardneon"
+
