@@ -1,6 +1,6 @@
 database_name = "wordpress" 
 database_user = "wordpress" 
-shared_credentials_file = "C:/****/****/***" // необходимо указать путь к вашему файлу
+shared_credentials_file = "C:/****/****/***" // ОБЬЯЗАТЕЛЬНО необходимо указать путь к вашему файлу
 region        = "eu-central-1"  
 key_name      = "francfurt"                  // ОБЬЯЗАТЕЛЬНО поменять на ваш 
 instance_type = "t2.micro" 
